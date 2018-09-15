@@ -1,15 +1,19 @@
-body {
+body, html {
 	padding: 0;
 	margin: 0;
 	position: fixed;
 	background:#FFFFFF;
-	width: 1280px;
-	height: 927px;
+        height: 100%;
 	
 	
 }
 
-
+#KB { 
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 #navbar {
